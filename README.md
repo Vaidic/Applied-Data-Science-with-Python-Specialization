@@ -5,7 +5,7 @@ Solutions and Notes for Coursera Specialization - [Applied Data Science with Pyt
 
 ## Please respect the [Coursera Honor Code](https://learner.coursera.help/hc/en-us/articles/209818863)
 
-## Courses In the Specialization & Solutions for Exercises 
+## Courses In the Specialization & Solutions for Assignments 
 
 ### [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis)
 - [x] [Solution to Week 2](/Introduction-to-Data-Science-in-Python/assignments/Assignment%202.ipynb)
