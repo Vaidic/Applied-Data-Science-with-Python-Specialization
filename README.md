@@ -8,9 +8,9 @@ Solutions and Notes for Coursera Specialization - [Applied Data Science with Pyt
 ## Courses In the Specialization & Solutions for Exercises 
 
 ### [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis)
-- [x] [Solution to Week 2](Introduction-to-Data-Science-in-Python\assignments\Assignment%202.ipynb)
-- [x] [Solution to Week 3]()
-- [x] [Solution to Week 4]()
+- [x] [Solution to Week 2](Introduction-to-Data-Science-in-Python%5Cassignments%5CAssignment%202.ipynb)
+- [x] [Solution to Week 3](Introduction-to-Data-Science-in-Python%5Cassignments%5CAssignment%203.ipynb)
+- [x] [Solution to Week 4](Introduction-to-Data-Science-in-Python%5Cassignments%5CAssignment%204.ipynb)
 
 ### [Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/learn/python-plotting)
 - [ ] [Solution to Week 1]()
