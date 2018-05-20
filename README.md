@@ -13,11 +13,9 @@ Solutions and Notes for Coursera Specialization - [Applied Data Science with Pyt
 - [x] [Solution to Week 4](/Introduction-to-Data-Science-in-Python/assignments/Assignment%204.ipynb)
 
 ### [Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/learn/python-plotting)
-- [ ] [Solution to Week 1]()
-- [ ] [Solution to Week 2]()
+- [x] [Solution to Week 2](/Applied-Plotting-Charting-And-Data-Representation-in-Python/assignments/Assignment%202.ipynb)
 - [ ] [Solution to Week 3]()
 - [ ] [Solution to Week 4]()
-- [ ] [Solution to Week 5]()
 
 ### [Applied Machine Learning in Python](https://www.coursera.org/learn/python-machine-learning)
 - [ ] [Solution to Week 1]()
