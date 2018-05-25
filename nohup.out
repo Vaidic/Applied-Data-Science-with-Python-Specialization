@@ -1,0 +1,4 @@
+
+C:\Users\vaidicj\Dropbox\dsml\Applied-Data-Science-with-Python-Specialization>start jupyter notebook --port 7171 --ip=localhost --notebook-dir=C:\Users\vaidicj\Dropbox\jupyter\ 
+
+C:\Users\vaidicj\Dropbox\dsml\Applied-Data-Science-with-Python-Specialization>start jupyter lab --port 7172 --ip=localhost --notebook-dir=C:\Users\vaidicj\Dropbox\jupyter\ 
